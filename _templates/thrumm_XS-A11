@@ -10,3 +10,5 @@ template: '{"NAME":"THRUMM XS-A11 ","GPIO":[255,17,255,255,255,255,255,255,255,5
 link_alt: 
 ---
 
+D6 GPIO12- Relay1, D2 GPIO4- Red LED- Led 1, D3 GPIO13- Button 1
+
